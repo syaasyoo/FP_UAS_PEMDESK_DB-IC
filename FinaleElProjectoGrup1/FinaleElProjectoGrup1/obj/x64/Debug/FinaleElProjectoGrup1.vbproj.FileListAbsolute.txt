@@ -1,0 +1,36 @@
+D:\Programming\Project\.vsstudio\repos\P.Desktop\FinaleElProjectoGrup1\FinaleElProjectoGrup1\bin\x64\Debug\FinaleElProjectoGrup1.exe.config
+D:\Programming\Project\.vsstudio\repos\P.Desktop\FinaleElProjectoGrup1\FinaleElProjectoGrup1\bin\x64\Debug\FinaleElProjectoGrup1.exe
+D:\Programming\Project\.vsstudio\repos\P.Desktop\FinaleElProjectoGrup1\FinaleElProjectoGrup1\bin\x64\Debug\FinaleElProjectoGrup1.pdb
+D:\Programming\Project\.vsstudio\repos\P.Desktop\FinaleElProjectoGrup1\FinaleElProjectoGrup1\bin\x64\Debug\FinaleElProjectoGrup1.xml
+D:\Programming\Project\.vsstudio\repos\P.Desktop\FinaleElProjectoGrup1\FinaleElProjectoGrup1\obj\x64\Debug\FinaleElProjectoGrup1.vbproj.AssemblyReference.cache
+D:\Programming\Project\.vsstudio\repos\P.Desktop\FinaleElProjectoGrup1\FinaleElProjectoGrup1\obj\x64\Debug\FinaleElProjectoGrup1.vbproj.SuggestedBindingRedirects.cache
+D:\Programming\Project\.vsstudio\repos\P.Desktop\FinaleElProjectoGrup1\FinaleElProjectoGrup1\obj\x64\Debug\FinaleElProjectoGrup1.Categories.resources
+D:\Programming\Project\.vsstudio\repos\P.Desktop\FinaleElProjectoGrup1\FinaleElProjectoGrup1\obj\x64\Debug\FinaleElProjectoGrup1.Customers.resources
+D:\Programming\Project\.vsstudio\repos\P.Desktop\FinaleElProjectoGrup1\FinaleElProjectoGrup1\obj\x64\Debug\FinaleElProjectoGrup1.mainForm.resources
+D:\Programming\Project\.vsstudio\repos\P.Desktop\FinaleElProjectoGrup1\FinaleElProjectoGrup1\obj\x64\Debug\FinaleElProjectoGrup1.OrderForm.resources
+D:\Programming\Project\.vsstudio\repos\P.Desktop\FinaleElProjectoGrup1\FinaleElProjectoGrup1\obj\x64\Debug\FinaleElProjectoGrup1.ProductForm.resources
+D:\Programming\Project\.vsstudio\repos\P.Desktop\FinaleElProjectoGrup1\FinaleElProjectoGrup1\obj\x64\Debug\FinaleElProjectoGrup1.Resources.resources
+D:\Programming\Project\.vsstudio\repos\P.Desktop\FinaleElProjectoGrup1\FinaleElProjectoGrup1\obj\x64\Debug\FinaleElProjectoGrup1.Users.resources
+D:\Programming\Project\.vsstudio\repos\P.Desktop\FinaleElProjectoGrup1\FinaleElProjectoGrup1\obj\x64\Debug\FinaleElProjectoGrup1.vbproj.GenerateResource.cache
+D:\Programming\Project\.vsstudio\repos\P.Desktop\FinaleElProjectoGrup1\FinaleElProjectoGrup1\obj\x64\Debug\FinaleElProjectoGrup1.vbproj.CoreCompileInputs.cache
+D:\Programming\Project\.vsstudio\repos\P.Desktop\FinaleElProjectoGrup1\FinaleElProjectoGrup1\obj\x64\Debug\FinaleElProjectoGrup1.exe
+D:\Programming\Project\.vsstudio\repos\P.Desktop\FinaleElProjectoGrup1\FinaleElProjectoGrup1\obj\x64\Debug\FinaleElProjectoGrup1.xml
+D:\Programming\Project\.vsstudio\repos\P.Desktop\FinaleElProjectoGrup1\FinaleElProjectoGrup1\obj\x64\Debug\FinaleElProjectoGrup1.pdb
+D:\Programming\Project\.vsstudio\repos\P.Desktop\FinaleElProjectoGrup2\Final Project\FinaleElProjectoGrup1\FinaleElProjectoGrup1\bin\x64\Debug\FinaleElProjectoGrup1.exe.config
+D:\Programming\Project\.vsstudio\repos\P.Desktop\FinaleElProjectoGrup2\Final Project\FinaleElProjectoGrup1\FinaleElProjectoGrup1\bin\x64\Debug\FinaleElProjectoGrup1.exe
+D:\Programming\Project\.vsstudio\repos\P.Desktop\FinaleElProjectoGrup2\Final Project\FinaleElProjectoGrup1\FinaleElProjectoGrup1\bin\x64\Debug\FinaleElProjectoGrup1.pdb
+D:\Programming\Project\.vsstudio\repos\P.Desktop\FinaleElProjectoGrup2\Final Project\FinaleElProjectoGrup1\FinaleElProjectoGrup1\bin\x64\Debug\FinaleElProjectoGrup1.xml
+D:\Programming\Project\.vsstudio\repos\P.Desktop\FinaleElProjectoGrup2\Final Project\FinaleElProjectoGrup1\FinaleElProjectoGrup1\obj\x64\Debug\FinaleElProjectoGrup1.vbproj.AssemblyReference.cache
+D:\Programming\Project\.vsstudio\repos\P.Desktop\FinaleElProjectoGrup2\Final Project\FinaleElProjectoGrup1\FinaleElProjectoGrup1\obj\x64\Debug\FinaleElProjectoGrup1.vbproj.SuggestedBindingRedirects.cache
+D:\Programming\Project\.vsstudio\repos\P.Desktop\FinaleElProjectoGrup2\Final Project\FinaleElProjectoGrup1\FinaleElProjectoGrup1\obj\x64\Debug\FinaleElProjectoGrup1.Categories.resources
+D:\Programming\Project\.vsstudio\repos\P.Desktop\FinaleElProjectoGrup2\Final Project\FinaleElProjectoGrup1\FinaleElProjectoGrup1\obj\x64\Debug\FinaleElProjectoGrup1.Customers.resources
+D:\Programming\Project\.vsstudio\repos\P.Desktop\FinaleElProjectoGrup2\Final Project\FinaleElProjectoGrup1\FinaleElProjectoGrup1\obj\x64\Debug\FinaleElProjectoGrup1.mainForm.resources
+D:\Programming\Project\.vsstudio\repos\P.Desktop\FinaleElProjectoGrup2\Final Project\FinaleElProjectoGrup1\FinaleElProjectoGrup1\obj\x64\Debug\FinaleElProjectoGrup1.Resources.resources
+D:\Programming\Project\.vsstudio\repos\P.Desktop\FinaleElProjectoGrup2\Final Project\FinaleElProjectoGrup1\FinaleElProjectoGrup1\obj\x64\Debug\FinaleElProjectoGrup1.OrderForm.resources
+D:\Programming\Project\.vsstudio\repos\P.Desktop\FinaleElProjectoGrup2\Final Project\FinaleElProjectoGrup1\FinaleElProjectoGrup1\obj\x64\Debug\FinaleElProjectoGrup1.ProductForm.resources
+D:\Programming\Project\.vsstudio\repos\P.Desktop\FinaleElProjectoGrup2\Final Project\FinaleElProjectoGrup1\FinaleElProjectoGrup1\obj\x64\Debug\FinaleElProjectoGrup1.UserForm.resources
+D:\Programming\Project\.vsstudio\repos\P.Desktop\FinaleElProjectoGrup2\Final Project\FinaleElProjectoGrup1\FinaleElProjectoGrup1\obj\x64\Debug\FinaleElProjectoGrup1.vbproj.GenerateResource.cache
+D:\Programming\Project\.vsstudio\repos\P.Desktop\FinaleElProjectoGrup2\Final Project\FinaleElProjectoGrup1\FinaleElProjectoGrup1\obj\x64\Debug\FinaleElProjectoGrup1.vbproj.CoreCompileInputs.cache
+D:\Programming\Project\.vsstudio\repos\P.Desktop\FinaleElProjectoGrup2\Final Project\FinaleElProjectoGrup1\FinaleElProjectoGrup1\obj\x64\Debug\FinaleElProjectoGrup1.exe
+D:\Programming\Project\.vsstudio\repos\P.Desktop\FinaleElProjectoGrup2\Final Project\FinaleElProjectoGrup1\FinaleElProjectoGrup1\obj\x64\Debug\FinaleElProjectoGrup1.xml
+D:\Programming\Project\.vsstudio\repos\P.Desktop\FinaleElProjectoGrup2\Final Project\FinaleElProjectoGrup1\FinaleElProjectoGrup1\obj\x64\Debug\FinaleElProjectoGrup1.pdb
